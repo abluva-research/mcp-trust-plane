@@ -50,7 +50,7 @@ Write clear, descriptive commit messages explaining *why*, not just *what*.
 ### 6. Push to your fork
 
 ```
-git push origin feature/add-redis-data-guard
+git push origin <your-branch-name>
 ```
 
 ### 7. Open a Pull Request
