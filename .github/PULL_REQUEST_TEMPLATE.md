@@ -40,7 +40,7 @@ Because this is a security and data protection layer, we enforce a strict branch
 
 * **Automated Checks:** Once a PR is opened, our CI/CD pipelines will automatically run tests and linters. These must pass before a human review can begin.
 * **Code Owner Review:** Your PR will be automatically assigned to our core maintainers via GitHub's `CODEOWNERS` configuration. 
-* **The Approval Requirement:** Community members are welcome to comment and review, but **at least one core maintainer approval is required** for the PR to merge. 
+* **The Approval Requirement:** Community members are welcome to comment and review, but **two core maintainers approval is required** for the PR to merge. 
 * **Post-Approval Changes:** If you push new commits after receiving an approval, the approval will reset automatically. This ensures the finalized code is always verified.
 
 ---
