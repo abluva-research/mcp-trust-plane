@@ -93,9 +93,9 @@ If a violation is confirmed, the following enforcement ladder may be used. Sever
 
 ### 3. Temporary Suspension
 
-* **Event**: Repeated violations or serious incident
-* **Consequence**: Suspension with return conditions
-* **Repair**:
+1. **Event**: Repeated violations or serious incident
+2. **Consequence**: Suspension with return conditions
+3. **Repair**:
 
   * Respect suspension terms
   * Meet return conditions
