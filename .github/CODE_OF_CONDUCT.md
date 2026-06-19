@@ -40,10 +40,10 @@ We agree to restrict the following behaviors in our community. Instances, threat
 
 ## Other Restrictions
 
-* **Misleading identity**: Impersonating someone else or pretending to be someone else to evade enforcement actions
-* **Failing to credit sources**: Not properly crediting contributed content
-* **Promotional materials**: Sharing marketing or commercial content outside community norms
-* **Irresponsible communication**: Sharing content that includes or promotes restricted behaviors
+1. **Misleading identity**: Impersonating someone else or pretending to be someone else to evade enforcement actions
+2. **Failing to credit sources**: Not properly crediting contributed content
+3. **Promotional materials**: Sharing marketing or commercial content outside community norms
+4. **Irresponsible communication**: Sharing content that includes or promotes restricted behaviors
 
 ---
 
