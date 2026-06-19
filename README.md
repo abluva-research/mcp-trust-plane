@@ -177,3 +177,4 @@ mcp-filters/
     ├── contract.js        # HTTP contract for every filter
     └── behaviour.js       # decision-logic regression tests
 ```
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13305/badge)](https://www.bestpractices.dev/projects/13305)
