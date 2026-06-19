@@ -81,9 +81,9 @@ If a violation is confirmed, the following enforcement ladder may be used. Sever
 
 ### 2. Temporarily Limited Activities
 
-* **Event**: Repeated violation or more serious first offense
-* **Consequence**: Warning + temporary cooldown period
-* **Repair**:
+1. **Event**: Repeated violation or more serious first offense
+2. **Consequence**: Warning + temporary cooldown period
+3. **Repair**:
 
   * Apology
   * Reflection during cooldown
