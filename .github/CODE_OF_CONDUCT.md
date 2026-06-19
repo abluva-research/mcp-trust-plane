@@ -55,7 +55,19 @@ When an incident does occur, it is important to report it promptly.
 
 **To report a possible violation:**
 
-> [NOTE: describe your means of reporting here.]
+**Please do not open a public GitHub issue for security vulnerabilities.**  
+Security flaws in MCP filters or providers handling data-guard logic can have 
+serious downstream impact on applications and integrations that depend on them.
+
+### GitHub Private Vulnerability Reporting (Preferred)
+
+Use GitHub's built-in private reporting:
+1. Go to the **Security** tab of this repository
+2. Click **"Report a vulnerability"**
+3. Fill in the details and submit
+
+This is the preferred method as it keeps the disclosure private and allows 
+collaborative resolution directly on GitHub.
 
 Community Moderators take reports seriously and will respond in a timely manner. They will investigate all reports by reviewing messages, logs, recordings, or interviewing witnesses and participants.
 
