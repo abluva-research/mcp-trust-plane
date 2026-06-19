@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:26-alpine
 WORKDIR /app
 COPY _lib /app/provider/_lib
 COPY square/data-guard /app/provider/square/data-guard
