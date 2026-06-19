@@ -105,9 +105,9 @@ If a violation is confirmed, the following enforcement ladder may be used. Sever
 
 ### 4. Permanent Ban
 
-* **Event**: Severe or repeated unresolved violations
-* **Consequence**: Removal from all community spaces
-* **Repair**: Not applicable
+1. **Event**: Severe or repeated unresolved violations
+2. **Consequence**: Removal from all community spaces
+3. **Repair**: Not applicable
 
 ---
 
