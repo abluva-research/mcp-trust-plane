@@ -59,5 +59,3 @@ We follow **coordinated responsible disclosure**:
 - We will credit reporters in the release notes (unless you prefer to remain anonymous)
 - If a vulnerability is not resolved within 90 days, we will work with you on a 
   mutually agreed disclosure timeline
-
-  [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/13305/badge)](https://www.bestpractices.dev/projects/13305)
