@@ -28,13 +28,13 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 
 We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are violations of this Code of Conduct.
 
-* **Harassment**: Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop
-* **Character attacks**: Making insulting, demeaning, or pejorative comments directed at a community member or group of people
-* **Stereotyping or discrimination**: Characterizing anyone’s personality or behavior based on immutable identities or traits
-* **Sexualization**: Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community
-* **Violating confidentiality**: Sharing or acting on someone's personal or private information without their permission
-* **Endangerment**: Causing, encouraging, or threatening violence or other harm toward any person or group
-* Behaving in other ways that threaten the well-being of our community
+1. **Harassment**: Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any clear request to stop
+2. **Character attacks**: Making insulting, demeaning, or pejorative comments directed at a community member or group of people
+3. **Stereotyping or discrimination**: Characterizing anyone’s personality or behavior based on immutable identities or traits
+4. **Sexualization**: Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community
+5. **Violating confidentiality**: Sharing or acting on someone's personal or private information without their permission
+6. **Endangerment**: Causing, encouraging, or threatening violence or other harm toward any person or group
+7. Behaving in other ways that threaten the well-being of our community
 
 ---
 
