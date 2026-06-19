@@ -19,7 +19,7 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 * Respecting different viewpoints and experiences
 * Taking responsibility for our actions and contributions
 * Gracefully giving and accepting constructive feedback
-* Committing to repairing harm when it occurs
+* Committing to **repairing harm** when it occurs
 * Behaving in other ways that promote and sustain the well-being of our community
 
 ---
