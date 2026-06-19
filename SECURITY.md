@@ -47,7 +47,6 @@ To help us triage and resolve the issue quickly, please provide:
 | Fix or mitigation                | Within 90 days  |
 | Notification to reporter         | Upon release    |
 
-We may reach out for additional details during the investigation.
 
 ---
 
