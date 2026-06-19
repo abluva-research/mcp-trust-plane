@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:26-alpine
 WORKDIR /app
 COPY _lib /app/provider/_lib
 COPY bigquery/data-guard /app/provider/bigquery/data-guard
