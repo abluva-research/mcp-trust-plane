@@ -17,7 +17,7 @@ With these considerations in mind, we agree to behave mindfully toward each othe
 * Respecting the purpose of our community, our activities, and our ways of gathering
 * Engaging kindly and honestly with others
 * Respecting different viewpoints and experiences
-* Taking responsibility for our actions and contributions
+* **Taking responsibility** for our actions and contributions
 * Gracefully giving and accepting constructive feedback
 * Committing to repairing harm when it occurs
 * Behaving in other ways that promote and sustain the well-being of our community
