@@ -69,9 +69,9 @@ If a violation is confirmed, the following enforcement ladder may be used. Sever
 
 ### 1. Warning
 
-* **Event**: Single or minor incidents
-* **Consequence**: Private written warning
-* **Repair**:
+1. **Event**: Single or minor incidents
+2. **Consequence**: Private written warning
+3. **Repair**:
 
   * Private apology
   * Acknowledgment of responsibility
