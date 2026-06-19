@@ -1,4 +1,4 @@
-FROM node:20-alpine
+FROM node:26-alpine
 WORKDIR /app
 COPY _lib /app/provider/_lib
 COPY aws/data-guard /app/provider/aws/data-guard
