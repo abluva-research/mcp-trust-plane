@@ -14,13 +14,13 @@ While acknowledging differences in social norms, we all strive to meet our commu
 
 With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
 
-* Respecting the purpose of our community, our activities, and our ways of gathering
-* Engaging kindly and honestly with others
-* Respecting different viewpoints and experiences
-* Taking responsibility for our actions and contributions
-* Gracefully giving and accepting constructive feedback
-* Committing to repairing harm when it occurs
-* Behaving in other ways that promote and sustain the well-being of our community
+1. Respecting the purpose of our community, our activities, and our ways of gathering
+2. Engaging kindly and honestly with others
+3. Respecting different viewpoints and experiences
+4. Taking responsibility for our actions and contributions
+5. Gracefully giving and accepting constructive feedback
+6. Committing to repairing harm when it occurs
+7. Behaving in other ways that promote and sustain the well-being of our community
 
 ---
 
