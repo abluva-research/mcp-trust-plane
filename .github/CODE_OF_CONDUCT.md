@@ -34,7 +34,7 @@ We agree to restrict the following behaviors in our community. Instances, threat
 * **Sexualization**: Behaving in a way that would generally be considered inappropriately intimate in the context or purpose of the community
 * **Violating confidentiality**: Sharing or acting on someone's personal or private information without their permission
 * **Endangerment**: Causing, encouraging, or threatening violence or other harm toward any person or group
-* Behaving in other ways that threaten the well-being of our community
+* Behaving in other ways that **threaten the well-being** of our community
 
 ---
 
